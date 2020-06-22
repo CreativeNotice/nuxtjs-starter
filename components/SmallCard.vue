@@ -2,7 +2,7 @@
   <a class="card-small" v-bind:href="href">
     <!-- <Icon w="{153}" h="{163}" /> -->
     <component v-bind:is="id"></component>
-    <h3>{{ title }}</h3>
+    <h3>{{ title }} Tada</h3>
   </a>
 </template>
 
